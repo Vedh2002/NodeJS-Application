@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "669a030135ee43553d2843f5"
+  },
+  "first_name": "vamsi",
+  "last_name": "Thondambattu",
+  "email": "vamsit186@gmail.com",
+  "password_hash": "$2b$10$pOJn7OCBnDD6pwQPnrLC7eQCalSkZ25mhtDpM76sN6fugYIh5GRg2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a053b35ee43553d28440b"
+  },
+  "first_name": "narasimha",
+  "last_name": "hnln",
+  "email": "hnln@gmail.com",
+  "password_hash": "$2b$10$wgAmikSylnNnhiHDMlw9Te1uWmbOmir.on27vgitc8bR3weqo4VtK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a067035ee43553d284417"
+  },
+  "first_name": "jagadeesh",
+  "last_name": "kattubadi",
+  "email": "kattubadi@gmail.com",
+  "password_hash": "$2b$10$ko2jVZt8.e7ldbtFVK9OYeqp1ZpF.curlyHC9Ecd8KnuRRIBV3N52",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a076235ee43553d284423"
+  },
+  "first_name": "mahadev",
+  "last_name": "mothukuru",
+  "email": "mothukuru@gmail.com",
+  "password_hash": "$2b$10$lKDWl5NxHE.0D80lF1Aj0uxq2S.PGmjdQGpy5Ox0MXTB4LADmgX3y",
+  "__v": 0
+}]

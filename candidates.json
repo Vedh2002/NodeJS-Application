@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "669a039b35ee43553d2843fc"
+  },
+  "first_name": "dhana Lakshmi",
+  "last_name": "nethagiri",
+  "email": "nethagiri@gmail.com",
+  "user_id": {
+    "$oid": "669a030135ee43553d2843f5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a03db35ee43553d2843fe"
+  },
+  "first_name": "bharani",
+  "last_name": "kudala",
+  "email": "kudala@gmail.com",
+  "user_id": {
+    "$oid": "669a030135ee43553d2843f5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a042c35ee43553d284402"
+  },
+  "first_name": "sushmitha",
+  "last_name": "jalagadugu",
+  "email": "jalagadugu@gmail.com",
+  "user_id": {
+    "$oid": "669a030135ee43553d2843f5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a05c135ee43553d284410"
+  },
+  "first_name": "bose",
+  "last_name": "kogila",
+  "email": "kogila.com",
+  "user_id": {
+    "$oid": "669a053b35ee43553d28440b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a05f835ee43553d284412"
+  },
+  "first_name": "bharath simha",
+  "last_name": "suru",
+  "email": "suru@gmail.com",
+  "user_id": {
+    "$oid": "669a053b35ee43553d28440b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a061f35ee43553d284414"
+  },
+  "first_name": "karthik",
+  "last_name": "kake",
+  "email": "kake@gmail.com",
+  "user_id": {
+    "$oid": "669a053b35ee43553d28440b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a06e935ee43553d28441c"
+  },
+  "first_name": "swathi",
+  "last_name": "mada",
+  "email": "mada@gmail.com",
+  "user_id": {
+    "$oid": "669a067035ee43553d284417"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a070e35ee43553d28441e"
+  },
+  "first_name": "jithendra",
+  "last_name": "vennapusa",
+  "email": "vennapusa@gmail.com",
+  "user_id": {
+    "$oid": "669a067035ee43553d284417"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a072f35ee43553d284420"
+  },
+  "first_name": "sravan",
+  "last_name": "jinka",
+  "email": "jinka@gmail.com",
+  "user_id": {
+    "$oid": "669a067035ee43553d284417"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a07c035ee43553d284428"
+  },
+  "first_name": "rajitha",
+  "last_name": "chigicherla",
+  "email": "chigicherla@gmail.com",
+  "user_id": {
+    "$oid": "669a076235ee43553d284423"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a07ea35ee43553d28442a"
+  },
+  "first_name": "mahendra",
+  "last_name": "padigeri",
+  "email": "padigeri@gmail.com",
+  "user_id": {
+    "$oid": "669a076235ee43553d284423"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a080e35ee43553d28442c"
+  },
+  "first_name": "vinay",
+  "last_name": "mannem",
+  "email": "mannem@gmail.com",
+  "user_id": {
+    "$oid": "669a076235ee43553d284423"
+  },
+  "__v": 0
+}]
